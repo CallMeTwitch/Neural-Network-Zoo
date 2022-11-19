@@ -5,9 +5,11 @@ For educational purposes.
 
 The accompanying Medium articles for each file can be found here:
 
-[Single Layer Perceptron][a]
-[Multilayer Perceptron][b]
-[Recurrent Neural Network][c]
+Article 1: [Single Layer Perceptron][a]
+
+Article 2: [Multilayer Perceptron][b]
+
+Article 3: [Recurrent Neural Network][c]
 
 [a]: https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-the-perceptron-335759f48089
 [b]: https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-feed-forward-neural-networks-f754cc88eca2
