@@ -5,6 +5,6 @@ For educational purposes.
 
 The accompanying Medium articles for each file can be found here:
 
-Single Layer Perceptron: [medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-the-perceptron-335759f48089
-Multi Layer Perceptron: [medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-feed-forward-neural-networks-f754cc88eca2
-Recurrent Neural Network: [medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-the-recurrent-neural-network-9357b43e113c
+[medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-the-perceptron-335759f48089
+[medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-feed-forward-neural-networks-f754cc88eca2
+[medium.com/CallMeTwitch]https://medium.com/mlearning-ai/building-a-neural-network-zoo-from-scratch-the-recurrent-neural-network-9357b43e113c
